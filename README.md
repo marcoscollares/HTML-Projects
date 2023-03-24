@@ -1,2 +1,2 @@
-# Curso-Webmaster
- Curso de HTML5, CSS3 e Javascript
+# HTML Projects
+ Curso de HTML5 e CSS3
